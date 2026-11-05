@@ -33,8 +33,8 @@ An end-to-end analytics project built using Python, SQL, Pandas, Plotly, and Str
 ### 📫 Connect With Me
 
 - **GitHub:** [kinnu-reddi](https://github.com/kinnu-reddi)
-- **LinkedIn:** Add your LinkedIn profile URL here
-- **Email:** Add your professional email here
+- **LinkedIn:** https://www.linkedin.com/in/pappula-kiran-reddy-356b51292/
+- **Email:** pkiranreddy2004@gmail.com
 
 ---
 
